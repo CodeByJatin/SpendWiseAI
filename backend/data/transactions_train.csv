@@ -1,0 +1,1001 @@
+date,description,amount,category
+2026-02-01 00:45:27,Steam Games,19.45,Entertainment
+2026-02-01 02:19:27,City Water & Sewer,143.61,Utilities
+2026-02-01 02:43:27,Safeway Store,147.87,Groceries
+2026-02-01 06:31:27,Nike Online,99.28,Shopping
+2026-02-01 07:00:27,Safeway Store,104.85,Groceries
+2026-02-01 09:19:27,Comcast Cable,94.4,Utilities
+2026-02-01 09:48:27,Best Buy,229.2,Shopping
+2026-02-01 10:21:27,Lyft Ride,19.04,Transport
+2026-02-02 09:58:27,Nike Online,61.42,Shopping
+2026-02-02 11:08:27,Uber Trip,42.73,Transport
+2026-02-02 16:13:27,Best Buy,96.64,Shopping
+2026-02-02 17:50:27,Shell Fuel Station,28.42,Transport
+2026-02-02 18:40:27,Dominos Pizza,32.17,Food & Dining
+2026-02-03 05:20:27,Local Diner,20.19,Food & Dining
+2026-02-03 06:23:27,Chipotle Mexican Grill,5.33,Food & Dining
+2026-02-03 09:01:27,Nike Online,58.69,Shopping
+2026-02-03 10:40:27,Zara Fashion,82.2,Shopping
+2026-02-03 17:31:27,Chevron Gas,21.57,Transport
+2026-02-03 20:34:27,Verizon Wireless,175.85,Utilities
+2026-02-03 21:09:27,Whole Foods Market,39.14,Groceries
+2026-02-03 22:34:27,Kroger Grocery,19.24,Groceries
+2026-02-03 23:26:27,Starbucks Coffee,9.0,Food & Dining
+2026-02-04 00:40:27,Safeway Store,59.74,Groceries
+2026-02-04 06:44:27,City Transit Subway,50.63,Transport
+2026-02-04 17:58:27,ExxonMobil,36.71,Transport
+2026-02-04 21:45:27,Verizon Wireless,94.85,Utilities
+2026-02-04 21:47:27,PlayStation Network,16.58,Entertainment
+2026-02-05 04:02:27,Verizon Wireless,142.94,Utilities
+2026-02-05 05:16:27,Safeway Store,46.05,Groceries
+2026-02-05 14:49:27,City Transit Subway,39.16,Transport
+2026-02-05 18:51:27,PG&E Electric,95.06,Utilities
+2026-02-05 20:30:27,Trader Joe's,53.91,Groceries
+2026-02-06 05:33:27,Nike Online,78.13,Shopping
+2026-02-06 06:53:27,ExxonMobil,38.85,Transport
+2026-02-06 09:33:27,Walmart Supercenter,79.82,Groceries
+2026-02-06 11:21:27,Verizon Wireless,98.03,Utilities
+2026-02-06 13:06:27,PG&E Electric,154.08,Utilities
+2026-02-06 16:19:27,Zara Fashion,81.63,Shopping
+2026-02-06 23:24:27,Safeway Store,153.76,Groceries
+2026-02-07 00:38:27,Trader Joe's,143.24,Groceries
+2026-02-07 00:56:27,ExxonMobil,22.97,Transport
+2026-02-07 01:51:27,McDonald's,35.86,Food & Dining
+2026-02-07 02:18:27,Walmart Supercenter,73.89,Groceries
+2026-02-07 02:44:27,AMC Theatres,15.4,Entertainment
+2026-02-07 09:22:27,Uber Trip,50.07,Transport
+2026-02-07 09:33:27,AT&T Mobility,136.34,Utilities
+2026-02-07 16:06:27,Uber Trip,40.83,Transport
+2026-02-07 16:42:27,City Transit Subway,59.6,Transport
+2026-02-07 18:53:27,AT&T Mobility,62.88,Utilities
+2026-02-07 21:30:27,Netflix.com,27.98,Entertainment
+2026-02-08 09:51:27,City Water & Sewer,95.66,Utilities
+2026-02-08 09:57:27,City Transit Subway,54.37,Transport
+2026-02-08 10:40:27,Starbucks Coffee,26.03,Food & Dining
+2026-02-08 14:01:27,Comcast Cable,83.64,Utilities
+2026-02-08 14:43:27,Zara Fashion,156.43,Shopping
+2026-02-08 14:48:27,City Water & Sewer,131.01,Utilities
+2026-02-08 15:38:27,Zara Fashion,192.13,Shopping
+2026-02-08 18:07:27,Local Diner,43.39,Food & Dining
+2026-02-08 20:08:27,AT&T Mobility,85.87,Utilities
+2026-02-08 21:41:27,McDonald's,34.62,Food & Dining
+2026-02-08 22:06:27,Nike Online,168.93,Shopping
+2026-02-09 01:33:27,Hulu Subscription,9.75,Entertainment
+2026-02-09 04:17:27,Nike Online,119.95,Shopping
+2026-02-09 05:50:27,Target Stores,129.15,Shopping
+2026-02-09 14:37:27,PlayStation Network,27.68,Entertainment
+2026-02-09 16:37:27,Local Diner,24.85,Food & Dining
+2026-02-09 17:12:27,AT&T Mobility,162.77,Utilities
+2026-02-09 20:11:27,Comcast Cable,173.52,Utilities
+2026-02-09 21:41:27,Zara Fashion,248.03,Shopping
+2026-02-09 23:15:27,Chevron Gas,37.06,Transport
+2026-02-10 01:21:27,Whole Foods Market,118.96,Groceries
+2026-02-10 02:33:27,McDonald's,22.15,Food & Dining
+2026-02-10 03:15:27,Comcast Cable,179.05,Utilities
+2026-02-10 09:57:27,Walmart Supercenter,179.33,Groceries
+2026-02-10 12:00:27,Kroger Grocery,71.46,Groceries
+2026-02-10 20:34:27,Kroger Grocery,95.5,Groceries
+2026-02-10 21:53:27,City Water & Sewer,153.3,Utilities
+2026-02-10 22:10:27,Hulu Subscription,29.3,Entertainment
+2026-02-11 02:31:27,Verizon Wireless,57.27,Utilities
+2026-02-11 18:06:27,Whole Foods Market,91.33,Groceries
+2026-02-11 19:59:27,Lyft Ride,48.92,Transport
+2026-02-11 23:44:27,Best Buy,14.63,Shopping
+2026-02-12 03:20:27,City Water & Sewer,166.26,Utilities
+2026-02-12 07:02:27,ExxonMobil,42.15,Transport
+2026-02-12 09:57:27,Spotify Premium,14.05,Entertainment
+2026-02-12 13:52:27,City Water & Sewer,81.46,Utilities
+2026-02-12 15:21:27,Verizon Wireless,52.97,Utilities
+2026-02-12 15:21:27,Starbucks Coffee,41.52,Food & Dining
+2026-02-12 16:07:27,City Transit Subway,22.15,Transport
+2026-02-12 17:19:27,Amazon.com,69.51,Shopping
+2026-02-12 18:46:27,Verizon Wireless,143.5,Utilities
+2026-02-12 22:22:27,UberEats Delivery,10.73,Food & Dining
+2026-02-13 00:52:27,Starbucks Coffee,32.88,Food & Dining
+2026-02-13 04:27:27,Best Buy,215.19,Shopping
+2026-02-13 04:38:27,City Water & Sewer,74.98,Utilities
+2026-02-13 08:46:27,City Water & Sewer,106.63,Utilities
+2026-02-13 13:32:27,Amazon.com,17.95,Shopping
+2026-02-13 19:10:27,Verizon Wireless,147.63,Utilities
+2026-02-13 21:40:27,AMC Theatres,23.58,Entertainment
+2026-02-14 04:35:27,Whole Foods Market,164.99,Groceries
+2026-02-14 10:35:27,UberEats Delivery,43.06,Food & Dining
+2026-02-14 12:14:27,Whole Foods Market,73.85,Groceries
+2026-02-14 12:37:27,Chevron Gas,59.65,Transport
+2026-02-14 14:29:27,Subway Sandwiches,37.3,Food & Dining
+2026-02-14 16:27:27,Chevron Gas,22.02,Transport
+2026-02-14 19:31:27,Best Buy,79.79,Shopping
+2026-02-14 21:02:27,Shell Fuel Station,24.14,Transport
+2026-02-15 01:14:27,Dominos Pizza,33.68,Food & Dining
+2026-02-15 02:25:27,PG&E Electric,88.96,Utilities
+2026-02-15 03:37:27,City Transit Subway,20.2,Transport
+2026-02-15 05:29:27,Target Stores,46.05,Shopping
+2026-02-15 06:14:27,McDonald's,18.83,Food & Dining
+2026-02-15 09:13:27,Spotify Premium,29.27,Entertainment
+2026-02-15 10:57:27,Uber Trip,29.67,Transport
+2026-02-15 16:03:27,UberEats Delivery,23.47,Food & Dining
+2026-02-15 21:06:27,Kroger Grocery,166.31,Groceries
+2026-02-15 22:50:27,Amazon.com,73.68,Shopping
+2026-02-16 07:44:27,Subway Sandwiches,26.17,Food & Dining
+2026-02-16 11:39:27,Target Stores,127.95,Shopping
+2026-02-16 12:01:27,Nike Online,130.23,Shopping
+2026-02-16 14:41:27,Lyft Ride,57.56,Transport
+2026-02-16 15:14:27,Chevron Gas,57.04,Transport
+2026-02-16 17:06:27,UberEats Delivery,26.19,Food & Dining
+2026-02-16 20:12:27,PG&E Electric,73.74,Utilities
+2026-02-17 03:02:27,Kroger Grocery,178.19,Groceries
+2026-02-17 03:21:27,Trader Joe's,74.76,Groceries
+2026-02-17 09:06:27,Verizon Wireless,120.01,Utilities
+2026-02-17 09:57:27,Chipotle Mexican Grill,17.38,Food & Dining
+2026-02-17 10:26:27,Zara Fashion,155.23,Shopping
+2026-02-17 11:50:27,Chevron Gas,48.36,Transport
+2026-02-17 13:45:27,Dominos Pizza,21.89,Food & Dining
+2026-02-17 14:39:27,Walmart Supercenter,89.09,Groceries
+2026-02-17 14:42:27,Chipotle Mexican Grill,10.34,Food & Dining
+2026-02-17 21:30:27,Trader Joe's,91.77,Groceries
+2026-02-17 22:48:27,Comcast Cable,174.08,Utilities
+2026-02-18 03:12:27,Local Diner,35.07,Food & Dining
+2026-02-18 03:37:27,AMC Theatres,25.46,Entertainment
+2026-02-18 06:46:27,Best Buy,39.95,Shopping
+2026-02-18 09:23:27,Best Buy,95.1,Shopping
+2026-02-18 12:05:27,Hulu Subscription,13.48,Entertainment
+2026-02-18 13:27:27,Starbucks Coffee,41.47,Food & Dining
+2026-02-18 19:28:27,Zara Fashion,177.89,Shopping
+2026-02-18 23:29:27,PG&E Electric,51.51,Utilities
+2026-02-19 02:59:27,Spotify Premium,8.38,Entertainment
+2026-02-19 05:51:27,Zara Fashion,209.14,Shopping
+2026-02-19 07:11:27,PlayStation Network,11.58,Entertainment
+2026-02-19 11:34:27,Shell Fuel Station,32.58,Transport
+2026-02-19 12:33:27,Whole Foods Market,90.37,Groceries
+2026-02-19 14:16:27,Amazon.com,108.61,Shopping
+2026-02-19 15:57:27,Comcast Cable,139.34,Utilities
+2026-02-19 21:14:27,Subway Sandwiches,40.91,Food & Dining
+2026-02-19 21:57:27,Trader Joe's,167.76,Groceries
+2026-02-19 22:26:27,Verizon Wireless,93.57,Utilities
+2026-02-19 22:56:27,City Water & Sewer,173.75,Utilities
+2026-02-19 23:13:27,AT&T Mobility,107.29,Utilities
+2026-02-20 03:18:27,PlayStation Network,23.32,Entertainment
+2026-02-20 04:32:27,ExxonMobil,56.65,Transport
+2026-02-20 05:19:27,Local Diner,23.63,Food & Dining
+2026-02-20 06:04:27,Uber Trip,26.11,Transport
+2026-02-20 06:57:27,Uber Trip,42.8,Transport
+2026-02-20 10:36:27,Apple Store,75.78,Shopping
+2026-02-20 10:53:27,Comcast Cable,58.57,Utilities
+2026-02-20 12:16:27,AMC Theatres,10.96,Entertainment
+2026-02-20 16:39:27,Chevron Gas,36.87,Transport
+2026-02-20 18:54:27,Whole Foods Market,39.22,Groceries
+2026-02-20 20:48:27,Kroger Grocery,156.4,Groceries
+2026-02-21 01:59:27,Hulu Subscription,15.83,Entertainment
+2026-02-21 05:52:27,Best Buy,151.74,Shopping
+2026-02-21 06:37:27,Chevron Gas,14.21,Transport
+2026-02-21 08:35:27,UberEats Delivery,18.12,Food & Dining
+2026-02-21 10:30:27,Starbucks Coffee,34.14,Food & Dining
+2026-02-21 20:41:27,McDonald's,37.11,Food & Dining
+2026-02-21 23:49:27,Chevron Gas,29.45,Transport
+2026-02-22 02:12:27,AT&T Mobility,73.49,Utilities
+2026-02-22 04:05:27,UberEats Delivery,13.39,Food & Dining
+2026-02-22 06:03:27,Comcast Cable,98.72,Utilities
+2026-02-22 06:08:27,Lyft Ride,28.35,Transport
+2026-02-22 06:40:27,Nike Online,127.68,Shopping
+2026-02-22 12:41:27,Whole Foods Market,77.43,Groceries
+2026-02-22 19:02:27,City Water & Sewer,173.27,Utilities
+2026-02-23 04:03:27,Whole Foods Market,124.84,Groceries
+2026-02-23 07:07:27,Best Buy,111.09,Shopping
+2026-02-23 08:22:27,Amazon.com,25.78,Shopping
+2026-02-23 16:14:27,Whole Foods Market,96.98,Groceries
+2026-02-23 18:11:27,Apple Store,36.13,Shopping
+2026-02-23 19:53:27,Safeway Store,97.62,Groceries
+2026-02-24 02:18:27,Whole Foods Market,26.66,Groceries
+2026-02-24 02:44:27,PG&E Electric,136.3,Utilities
+2026-02-24 11:44:27,Apple Store,51.1,Shopping
+2026-02-24 12:54:27,Chipotle Mexican Grill,6.52,Food & Dining
+2026-02-24 13:16:27,Netflix.com,10.42,Entertainment
+2026-02-24 17:12:27,AMC Theatres,20.77,Entertainment
+2026-02-24 17:14:27,McDonald's,44.67,Food & Dining
+2026-02-25 01:27:27,Comcast Cable,117.45,Utilities
+2026-02-25 08:39:27,Subway Sandwiches,9.64,Food & Dining
+2026-02-25 09:02:27,Whole Foods Market,99.46,Groceries
+2026-02-25 11:27:27,Steam Games,8.83,Entertainment
+2026-02-25 13:14:27,City Water & Sewer,109.41,Utilities
+2026-02-25 15:40:27,Uber Trip,59.04,Transport
+2026-02-25 16:18:27,Kroger Grocery,43.49,Groceries
+2026-02-25 17:30:27,Uber Trip,31.54,Transport
+2026-02-25 19:50:27,Comcast Cable,113.96,Utilities
+2026-02-25 20:23:27,Uber Trip,46.49,Transport
+2026-02-26 01:59:27,Best Buy,23.15,Shopping
+2026-02-26 04:48:27,Trader Joe's,82.93,Groceries
+2026-02-26 05:51:27,Verizon Wireless,166.24,Utilities
+2026-02-26 07:26:27,Dominos Pizza,42.23,Food & Dining
+2026-02-26 11:31:27,PlayStation Network,8.66,Entertainment
+2026-02-26 14:02:27,Shell Fuel Station,26.36,Transport
+2026-02-26 15:35:27,Netflix.com,19.09,Entertainment
+2026-02-26 17:22:27,Uber Trip,48.01,Transport
+2026-02-26 20:10:27,AMC Theatres,10.75,Entertainment
+2026-02-26 23:42:27,Safeway Store,170.62,Groceries
+2026-02-27 05:23:27,Chipotle Mexican Grill,28.21,Food & Dining
+2026-02-27 07:19:27,Nike Online,11.74,Shopping
+2026-02-27 07:52:27,Chevron Gas,12.15,Transport
+2026-02-27 19:35:27,Whole Foods Market,142.54,Groceries
+2026-02-27 21:04:27,Shell Fuel Station,59.13,Transport
+2026-02-27 22:06:27,PG&E Electric,93.01,Utilities
+2026-02-28 02:00:27,Hulu Subscription,10.59,Entertainment
+2026-02-28 03:25:27,AT&T Mobility,144.25,Utilities
+2026-02-28 09:15:27,Chipotle Mexican Grill,20.55,Food & Dining
+2026-02-28 09:21:27,Chipotle Mexican Grill,32.67,Food & Dining
+2026-02-28 09:57:27,Lyft Ride,26.41,Transport
+2026-02-28 21:19:27,Best Buy,231.92,Shopping
+2026-02-28 21:29:27,Nike Online,32.48,Shopping
+2026-02-28 21:58:27,PG&E Electric,146.61,Utilities
+2026-03-01 07:50:27,PG&E Electric,79.61,Utilities
+2026-03-01 10:31:27,Hulu Subscription,22.9,Entertainment
+2026-03-01 11:43:27,Kroger Grocery,164.66,Groceries
+2026-03-01 15:22:27,Trader Joe's,108.26,Groceries
+2026-03-01 15:56:27,Uber Trip,24.72,Transport
+2026-03-01 16:50:27,Safeway Store,136.96,Groceries
+2026-03-01 17:55:27,Safeway Store,154.81,Groceries
+2026-03-01 18:21:27,Walmart Supercenter,88.58,Groceries
+2026-03-01 21:51:27,Best Buy,125.59,Shopping
+2026-03-01 22:53:27,AMC Theatres,14.06,Entertainment
+2026-03-02 07:55:27,Safeway Store,101.95,Groceries
+2026-03-02 09:27:27,Comcast Cable,127.1,Utilities
+2026-03-02 10:17:27,ExxonMobil,39.7,Transport
+2026-03-02 12:35:27,Safeway Store,168.11,Groceries
+2026-03-02 21:31:27,Kroger Grocery,108.43,Groceries
+2026-03-02 21:46:27,Nike Online,150.3,Shopping
+2026-03-03 05:40:27,Verizon Wireless,112.15,Utilities
+2026-03-03 12:10:27,Shell Fuel Station,30.07,Transport
+2026-03-03 15:02:27,Chipotle Mexican Grill,39.26,Food & Dining
+2026-03-03 16:07:27,Lyft Ride,56.0,Transport
+2026-03-03 16:57:27,ExxonMobil,46.38,Transport
+2026-03-03 21:12:27,Hulu Subscription,19.65,Entertainment
+2026-03-03 23:25:27,PG&E Electric,69.16,Utilities
+2026-03-03 23:26:27,PlayStation Network,21.34,Entertainment
+2026-03-04 02:15:27,Verizon Wireless,167.17,Utilities
+2026-03-04 05:16:27,Nike Online,184.76,Shopping
+2026-03-04 06:35:27,Netflix.com,18.78,Entertainment
+2026-03-04 12:51:27,Lyft Ride,49.52,Transport
+2026-03-04 17:58:27,Dominos Pizza,7.88,Food & Dining
+2026-03-05 02:50:27,Chipotle Mexican Grill,28.22,Food & Dining
+2026-03-05 05:42:27,Kroger Grocery,136.38,Groceries
+2026-03-05 10:13:27,Starbucks Coffee,19.69,Food & Dining
+2026-03-05 13:37:27,Trader Joe's,43.23,Groceries
+2026-03-06 00:00:27,Safeway Store,131.74,Groceries
+2026-03-06 01:10:27,Amazon.com,51.71,Shopping
+2026-03-06 03:05:27,Whole Foods Market,95.08,Groceries
+2026-03-06 06:32:27,PG&E Electric,66.34,Utilities
+2026-03-06 08:57:27,Safeway Store,29.53,Groceries
+2026-03-06 10:00:27,Target Stores,168.51,Shopping
+2026-03-06 15:11:27,Chevron Gas,55.19,Transport
+2026-03-06 16:36:27,PG&E Electric,157.9,Utilities
+2026-03-06 21:46:27,City Water & Sewer,46.81,Utilities
+2026-03-06 23:19:27,Nike Online,140.66,Shopping
+2026-03-06 23:35:27,Chipotle Mexican Grill,18.28,Food & Dining
+2026-03-06 23:49:27,Subway Sandwiches,6.2,Food & Dining
+2026-03-07 00:11:27,Apple Store,109.39,Shopping
+2026-03-07 04:21:27,PlayStation Network,24.27,Entertainment
+2026-03-07 11:20:27,Amazon.com,91.93,Shopping
+2026-03-07 11:24:27,Trader Joe's,134.24,Groceries
+2026-03-07 12:26:27,Safeway Store,164.13,Groceries
+2026-03-07 13:28:27,Trader Joe's,26.32,Groceries
+2026-03-07 18:18:27,Target Stores,221.22,Shopping
+2026-03-07 18:54:27,Trader Joe's,46.39,Groceries
+2026-03-07 21:29:27,Comcast Cable,155.36,Utilities
+2026-03-08 02:34:27,Chipotle Mexican Grill,35.07,Food & Dining
+2026-03-08 05:50:27,Chevron Gas,27.32,Transport
+2026-03-08 08:16:27,Dominos Pizza,9.96,Food & Dining
+2026-03-08 08:29:27,McDonald's,7.23,Food & Dining
+2026-03-08 09:53:27,Kroger Grocery,81.48,Groceries
+2026-03-08 10:02:27,Kroger Grocery,81.19,Groceries
+2026-03-08 13:28:27,Chipotle Mexican Grill,17.85,Food & Dining
+2026-03-08 13:42:27,Best Buy,73.39,Shopping
+2026-03-08 14:27:27,Amazon.com,238.77,Shopping
+2026-03-08 15:14:27,Lyft Ride,9.13,Transport
+2026-03-08 15:23:27,Nike Online,110.29,Shopping
+2026-03-08 16:26:27,Spotify Premium,9.66,Entertainment
+2026-03-08 17:12:27,UberEats Delivery,33.01,Food & Dining
+2026-03-08 17:55:27,Comcast Cable,123.65,Utilities
+2026-03-08 19:22:27,Starbucks Coffee,21.61,Food & Dining
+2026-03-08 20:51:27,Target Stores,156.5,Shopping
+2026-03-08 23:07:27,Chipotle Mexican Grill,17.32,Food & Dining
+2026-03-09 09:38:27,AMC Theatres,24.61,Entertainment
+2026-03-09 10:00:27,Hulu Subscription,12.22,Entertainment
+2026-03-09 10:20:27,Chevron Gas,58.97,Transport
+2026-03-09 10:22:27,AMC Theatres,18.66,Entertainment
+2026-03-09 10:54:27,Steam Games,26.63,Entertainment
+2026-03-09 12:48:27,Hulu Subscription,12.64,Entertainment
+2026-03-09 13:03:27,Kroger Grocery,72.11,Groceries
+2026-03-09 16:31:27,Starbucks Coffee,10.65,Food & Dining
+2026-03-10 01:11:27,Kroger Grocery,137.42,Groceries
+2026-03-10 01:58:27,Comcast Cable,104.58,Utilities
+2026-03-10 05:21:27,Amazon.com,38.38,Shopping
+2026-03-10 06:55:27,Subway Sandwiches,5.23,Food & Dining
+2026-03-10 08:20:27,Subway Sandwiches,31.13,Food & Dining
+2026-03-10 08:54:27,Chevron Gas,48.86,Transport
+2026-03-10 10:45:27,Trader Joe's,36.87,Groceries
+2026-03-10 23:21:27,Verizon Wireless,124.1,Utilities
+2026-03-11 02:05:27,Trader Joe's,74.85,Groceries
+2026-03-11 03:09:27,AMC Theatres,12.57,Entertainment
+2026-03-11 04:20:27,Subway Sandwiches,9.4,Food & Dining
+2026-03-11 04:56:27,PlayStation Network,19.7,Entertainment
+2026-03-11 05:22:27,Walmart Supercenter,96.5,Groceries
+2026-03-11 05:41:27,Verizon Wireless,100.73,Utilities
+2026-03-11 10:58:27,Whole Foods Market,37.29,Groceries
+2026-03-11 11:01:27,Amazon.com,26.07,Shopping
+2026-03-11 12:30:27,Target Stores,75.16,Shopping
+2026-03-11 14:07:27,Target Stores,148.06,Shopping
+2026-03-11 15:49:27,City Transit Subway,23.78,Transport
+2026-03-11 17:11:27,ExxonMobil,19.24,Transport
+2026-03-11 18:35:27,Nike Online,172.38,Shopping
+2026-03-11 19:57:27,Verizon Wireless,174.84,Utilities
+2026-03-11 21:20:27,Spotify Premium,25.94,Entertainment
+2026-03-11 22:31:27,Amazon.com,163.47,Shopping
+2026-03-12 00:04:27,Uber Trip,21.61,Transport
+2026-03-12 00:39:27,Target Stores,41.24,Shopping
+2026-03-12 00:46:27,Starbucks Coffee,30.38,Food & Dining
+2026-03-12 13:15:27,Comcast Cable,156.79,Utilities
+2026-03-12 13:16:27,Target Stores,191.95,Shopping
+2026-03-12 17:09:27,Target Stores,98.6,Shopping
+2026-03-12 23:08:27,Amazon.com,91.62,Shopping
+2026-03-13 00:45:27,Whole Foods Market,30.84,Groceries
+2026-03-13 02:14:27,Trader Joe's,109.9,Groceries
+2026-03-13 11:04:27,Kroger Grocery,61.41,Groceries
+2026-03-13 12:06:27,Walmart Supercenter,62.61,Groceries
+2026-03-13 12:53:27,UberEats Delivery,17.76,Food & Dining
+2026-03-13 16:27:27,Starbucks Coffee,10.95,Food & Dining
+2026-03-13 17:53:27,Netflix.com,28.62,Entertainment
+2026-03-13 18:11:27,Safeway Store,56.26,Groceries
+2026-03-13 18:54:27,City Water & Sewer,115.83,Utilities
+2026-03-13 20:30:27,City Water & Sewer,159.68,Utilities
+2026-03-14 00:20:27,UberEats Delivery,25.6,Food & Dining
+2026-03-14 00:21:27,Kroger Grocery,127.34,Groceries
+2026-03-14 03:06:27,Whole Foods Market,81.58,Groceries
+2026-03-14 03:10:27,Target Stores,132.19,Shopping
+2026-03-14 09:34:27,UberEats Delivery,8.63,Food & Dining
+2026-03-14 13:59:27,Comcast Cable,130.71,Utilities
+2026-03-14 15:21:27,Target Stores,103.23,Shopping
+2026-03-14 18:22:27,Steam Games,13.72,Entertainment
+2026-03-14 20:40:27,Zara Fashion,204.11,Shopping
+2026-03-14 20:49:27,Apple Store,48.09,Shopping
+2026-03-14 21:14:27,Hulu Subscription,25.99,Entertainment
+2026-03-15 04:37:27,Verizon Wireless,161.75,Utilities
+2026-03-15 04:43:27,Trader Joe's,126.64,Groceries
+2026-03-15 09:32:27,ExxonMobil,19.43,Transport
+2026-03-15 10:35:27,Apple Store,118.8,Shopping
+2026-03-15 22:29:27,Uber Trip,46.06,Transport
+2026-03-16 01:07:27,Comcast Cable,163.38,Utilities
+2026-03-16 06:57:27,City Water & Sewer,67.26,Utilities
+2026-03-16 08:25:27,City Water & Sewer,61.77,Utilities
+2026-03-16 15:21:27,Spotify Premium,18.52,Entertainment
+2026-03-16 15:54:27,Hulu Subscription,29.34,Entertainment
+2026-03-16 16:34:27,ExxonMobil,15.66,Transport
+2026-03-16 21:11:27,Walmart Supercenter,156.3,Groceries
+2026-03-16 23:06:27,Comcast Cable,68.17,Utilities
+2026-03-17 02:50:27,City Water & Sewer,166.11,Utilities
+2026-03-17 04:02:27,Verizon Wireless,141.45,Utilities
+2026-03-17 12:43:27,Safeway Store,108.2,Groceries
+2026-03-17 14:55:27,PlayStation Network,17.77,Entertainment
+2026-03-18 00:18:27,ExxonMobil,30.43,Transport
+2026-03-18 04:18:27,Comcast Cable,48.66,Utilities
+2026-03-18 09:54:27,Chevron Gas,37.82,Transport
+2026-03-18 10:28:27,McDonald's,41.77,Food & Dining
+2026-03-18 11:31:27,ExxonMobil,13.03,Transport
+2026-03-18 13:43:27,Trader Joe's,137.04,Groceries
+2026-03-18 14:44:27,PG&E Electric,163.36,Utilities
+2026-03-18 18:55:27,Lyft Ride,55.65,Transport
+2026-03-18 19:35:27,Nike Online,76.32,Shopping
+2026-03-18 20:08:27,PG&E Electric,74.16,Utilities
+2026-03-18 20:39:27,Subway Sandwiches,12.2,Food & Dining
+2026-03-18 23:14:27,Local Diner,33.22,Food & Dining
+2026-03-18 23:15:27,Safeway Store,131.01,Groceries
+2026-03-19 02:41:27,Trader Joe's,93.08,Groceries
+2026-03-19 04:19:27,UberEats Delivery,23.3,Food & Dining
+2026-03-19 04:22:27,Whole Foods Market,156.77,Groceries
+2026-03-19 05:03:27,City Water & Sewer,147.4,Utilities
+2026-03-19 07:27:27,Local Diner,28.15,Food & Dining
+2026-03-19 08:20:27,Chevron Gas,24.33,Transport
+2026-03-19 12:00:27,Apple Store,60.61,Shopping
+2026-03-19 13:11:27,PlayStation Network,15.9,Entertainment
+2026-03-19 13:47:27,Chipotle Mexican Grill,30.95,Food & Dining
+2026-03-19 14:21:27,Whole Foods Market,179.01,Groceries
+2026-03-19 15:53:27,Whole Foods Market,24.95,Groceries
+2026-03-19 17:43:27,PlayStation Network,9.14,Entertainment
+2026-03-19 22:27:27,UberEats Delivery,24.96,Food & Dining
+2026-03-20 05:46:27,Kroger Grocery,176.09,Groceries
+2026-03-20 07:12:27,Apple Store,168.63,Shopping
+2026-03-20 08:31:27,Lyft Ride,16.83,Transport
+2026-03-20 13:26:27,City Water & Sewer,152.49,Utilities
+2026-03-20 19:01:27,Local Diner,20.75,Food & Dining
+2026-03-20 19:07:27,Comcast Cable,138.62,Utilities
+2026-03-20 19:18:27,Apple Store,237.04,Shopping
+2026-03-20 22:33:27,Zara Fashion,189.77,Shopping
+2026-03-20 23:19:27,Kroger Grocery,121.45,Groceries
+2026-03-21 00:39:27,AT&T Mobility,146.42,Utilities
+2026-03-21 00:53:27,ExxonMobil,14.11,Transport
+2026-03-21 02:50:27,Amazon.com,75.63,Shopping
+2026-03-21 02:58:27,Zara Fashion,197.4,Shopping
+2026-03-21 06:42:27,Zara Fashion,40.48,Shopping
+2026-03-21 06:44:27,Target Stores,58.63,Shopping
+2026-03-21 11:50:27,Uber Trip,54.46,Transport
+2026-03-21 13:35:27,Nike Online,123.31,Shopping
+2026-03-21 17:41:27,Walmart Supercenter,146.99,Groceries
+2026-03-21 20:00:27,Safeway Store,66.81,Groceries
+2026-03-21 22:44:27,Chipotle Mexican Grill,27.48,Food & Dining
+2026-03-21 23:58:27,Shell Fuel Station,41.87,Transport
+2026-03-22 00:46:27,Dominos Pizza,37.18,Food & Dining
+2026-03-22 00:57:27,Local Diner,33.32,Food & Dining
+2026-03-22 02:13:27,Spotify Premium,26.49,Entertainment
+2026-03-22 03:07:27,Steam Games,11.98,Entertainment
+2026-03-22 03:57:27,Uber Trip,23.29,Transport
+2026-03-22 07:50:27,Steam Games,12.03,Entertainment
+2026-03-22 09:26:27,Chevron Gas,36.67,Transport
+2026-03-22 09:52:27,Spotify Premium,28.33,Entertainment
+2026-03-22 12:44:27,Best Buy,143.87,Shopping
+2026-03-22 20:36:27,ExxonMobil,44.54,Transport
+2026-03-22 20:39:27,Netflix.com,13.59,Entertainment
+2026-03-23 00:14:27,Steam Games,20.31,Entertainment
+2026-03-23 01:17:27,AMC Theatres,11.58,Entertainment
+2026-03-23 03:50:27,Nike Online,210.64,Shopping
+2026-03-23 11:37:27,PG&E Electric,131.37,Utilities
+2026-03-23 18:42:27,City Transit Subway,45.91,Transport
+2026-03-23 19:36:27,Safeway Store,150.96,Groceries
+2026-03-23 19:41:27,Shell Fuel Station,29.21,Transport
+2026-03-23 22:39:27,Comcast Cable,57.09,Utilities
+2026-03-24 04:18:27,ExxonMobil,54.48,Transport
+2026-03-24 05:32:27,PlayStation Network,16.2,Entertainment
+2026-03-24 08:22:27,Best Buy,57.03,Shopping
+2026-03-24 09:14:27,Chevron Gas,9.21,Transport
+2026-03-24 13:17:27,Safeway Store,160.11,Groceries
+2026-03-24 17:40:27,Trader Joe's,75.03,Groceries
+2026-03-24 19:50:27,Steam Games,16.32,Entertainment
+2026-03-24 21:08:27,Netflix.com,11.3,Entertainment
+2026-03-24 21:50:27,Dominos Pizza,11.74,Food & Dining
+2026-03-24 23:34:27,Kroger Grocery,92.12,Groceries
+2026-03-25 02:31:27,AMC Theatres,15.83,Entertainment
+2026-03-25 04:19:27,Spotify Premium,11.36,Entertainment
+2026-03-25 13:41:27,ExxonMobil,40.52,Transport
+2026-03-25 21:13:27,Chipotle Mexican Grill,29.27,Food & Dining
+2026-03-25 22:00:27,Spotify Premium,16.32,Entertainment
+2026-03-25 22:21:27,Chipotle Mexican Grill,6.2,Food & Dining
+2026-03-26 02:30:27,Target Stores,69.57,Shopping
+2026-03-26 02:35:27,City Transit Subway,29.59,Transport
+2026-03-26 07:47:27,Comcast Cable,140.54,Utilities
+2026-03-26 08:51:27,Kroger Grocery,59.93,Groceries
+2026-03-26 21:37:27,Hulu Subscription,24.22,Entertainment
+2026-03-27 05:18:27,Safeway Store,107.2,Groceries
+2026-03-27 05:26:27,Best Buy,58.66,Shopping
+2026-03-27 05:59:27,Comcast Cable,70.62,Utilities
+2026-03-27 07:36:27,Zara Fashion,64.89,Shopping
+2026-03-27 11:35:27,Comcast Cable,101.73,Utilities
+2026-03-27 12:32:27,Apple Store,129.87,Shopping
+2026-03-27 16:43:27,Hulu Subscription,8.55,Entertainment
+2026-03-27 17:06:27,Walmart Supercenter,52.57,Groceries
+2026-03-27 17:50:27,Amazon.com,174.32,Shopping
+2026-03-27 19:24:27,Walmart Supercenter,22.25,Groceries
+2026-03-27 20:29:27,Safeway Store,177.2,Groceries
+2026-03-27 23:34:27,Steam Games,19.0,Entertainment
+2026-03-28 11:51:27,AMC Theatres,18.25,Entertainment
+2026-03-28 12:11:27,Hulu Subscription,28.91,Entertainment
+2026-03-28 17:29:27,Best Buy,79.7,Shopping
+2026-03-28 19:20:27,UberEats Delivery,17.07,Food & Dining
+2026-03-28 21:17:27,PG&E Electric,123.3,Utilities
+2026-03-29 00:24:27,Spotify Premium,12.36,Entertainment
+2026-03-29 00:31:27,Zara Fashion,130.5,Shopping
+2026-03-29 02:23:27,Apple Store,60.48,Shopping
+2026-03-29 04:24:27,Zara Fashion,144.01,Shopping
+2026-03-29 12:44:27,Netflix.com,8.26,Entertainment
+2026-03-29 20:25:27,Whole Foods Market,113.38,Groceries
+2026-03-29 21:21:27,Subway Sandwiches,25.8,Food & Dining
+2026-03-30 01:32:27,Steam Games,27.04,Entertainment
+2026-03-30 05:37:27,PG&E Electric,174.13,Utilities
+2026-03-30 08:30:27,Nike Online,206.43,Shopping
+2026-03-30 08:48:27,Netflix.com,24.11,Entertainment
+2026-03-30 15:26:27,Starbucks Coffee,30.11,Food & Dining
+2026-03-30 21:18:27,City Water & Sewer,81.99,Utilities
+2026-03-31 01:15:27,Local Diner,24.04,Food & Dining
+2026-03-31 02:45:27,Whole Foods Market,94.37,Groceries
+2026-03-31 02:47:27,Target Stores,242.16,Shopping
+2026-03-31 06:12:27,City Water & Sewer,60.03,Utilities
+2026-03-31 06:23:27,Hulu Subscription,16.08,Entertainment
+2026-03-31 07:39:27,City Water & Sewer,161.51,Utilities
+2026-03-31 10:10:27,UberEats Delivery,35.12,Food & Dining
+2026-03-31 13:48:27,Walmart Supercenter,82.22,Groceries
+2026-03-31 18:14:27,City Transit Subway,54.96,Transport
+2026-03-31 23:03:27,Steam Games,16.41,Entertainment
+2026-04-01 00:21:27,Shell Fuel Station,24.08,Transport
+2026-04-01 06:44:27,Whole Foods Market,73.38,Groceries
+2026-04-01 08:43:27,Shell Fuel Station,29.01,Transport
+2026-04-01 10:20:27,Zara Fashion,220.11,Shopping
+2026-04-01 10:50:27,Uber Trip,28.44,Transport
+2026-04-01 21:31:27,Walmart Supercenter,95.66,Groceries
+2026-04-01 22:40:27,Whole Foods Market,171.85,Groceries
+2026-04-01 23:25:27,Kroger Grocery,43.38,Groceries
+2026-04-02 02:57:27,McDonald's,30.67,Food & Dining
+2026-04-02 06:29:27,Steam Games,20.5,Entertainment
+2026-04-02 11:48:27,ExxonMobil,18.35,Transport
+2026-04-02 15:39:27,AMC Theatres,22.21,Entertainment
+2026-04-03 00:54:27,Chipotle Mexican Grill,34.78,Food & Dining
+2026-04-03 01:32:27,Starbucks Coffee,31.67,Food & Dining
+2026-04-03 05:24:27,Whole Foods Market,140.36,Groceries
+2026-04-03 06:54:27,Dominos Pizza,15.6,Food & Dining
+2026-04-03 08:43:27,Netflix.com,15.97,Entertainment
+2026-04-03 08:57:27,City Transit Subway,9.79,Transport
+2026-04-03 10:15:27,AT&T Mobility,59.53,Utilities
+2026-04-03 12:57:27,City Water & Sewer,152.16,Utilities
+2026-04-03 20:25:27,Subway Sandwiches,33.01,Food & Dining
+2026-04-03 23:33:27,Amazon.com,106.2,Shopping
+2026-04-04 05:21:27,McDonald's,12.63,Food & Dining
+2026-04-04 06:03:27,Chipotle Mexican Grill,11.38,Food & Dining
+2026-04-04 13:10:27,UberEats Delivery,33.1,Food & Dining
+2026-04-04 13:46:27,Comcast Cable,85.64,Utilities
+2026-04-04 18:22:27,Starbucks Coffee,41.29,Food & Dining
+2026-04-04 21:05:27,Safeway Store,59.34,Groceries
+2026-04-05 00:29:27,Starbucks Coffee,11.01,Food & Dining
+2026-04-05 05:27:27,Spotify Premium,21.37,Entertainment
+2026-04-05 08:44:27,Chevron Gas,10.14,Transport
+2026-04-05 09:12:27,AMC Theatres,18.01,Entertainment
+2026-04-05 14:03:27,Best Buy,27.63,Shopping
+2026-04-05 14:42:27,Shell Fuel Station,21.87,Transport
+2026-04-05 14:57:27,Local Diner,37.09,Food & Dining
+2026-04-05 17:45:27,Apple Store,86.71,Shopping
+2026-04-05 21:08:27,Nike Online,43.74,Shopping
+2026-04-06 00:26:27,PG&E Electric,132.9,Utilities
+2026-04-06 00:26:27,City Water & Sewer,161.09,Utilities
+2026-04-06 02:39:27,PlayStation Network,29.73,Entertainment
+2026-04-06 04:39:27,Best Buy,58.62,Shopping
+2026-04-06 16:08:27,Chevron Gas,35.84,Transport
+2026-04-06 21:09:27,City Water & Sewer,88.55,Utilities
+2026-04-06 21:43:27,Best Buy,75.75,Shopping
+2026-04-06 21:49:27,PlayStation Network,9.58,Entertainment
+2026-04-06 21:57:27,Safeway Store,143.38,Groceries
+2026-04-06 22:09:27,Apple Store,102.79,Shopping
+2026-04-06 22:19:27,Spotify Premium,13.22,Entertainment
+2026-04-06 22:46:27,Subway Sandwiches,13.78,Food & Dining
+2026-04-07 00:02:27,Apple Store,173.41,Shopping
+2026-04-07 01:56:27,Subway Sandwiches,8.04,Food & Dining
+2026-04-07 07:47:27,PG&E Electric,57.49,Utilities
+2026-04-07 09:14:27,Steam Games,12.63,Entertainment
+2026-04-07 09:56:27,Steam Games,19.13,Entertainment
+2026-04-07 10:16:27,City Transit Subway,12.55,Transport
+2026-04-07 10:26:27,Hulu Subscription,15.62,Entertainment
+2026-04-07 14:44:27,City Transit Subway,25.02,Transport
+2026-04-08 03:32:27,AT&T Mobility,71.89,Utilities
+2026-04-08 03:46:27,McDonald's,42.95,Food & Dining
+2026-04-08 07:16:27,Netflix.com,16.79,Entertainment
+2026-04-08 08:04:27,Hulu Subscription,20.06,Entertainment
+2026-04-08 08:47:27,Nike Online,69.61,Shopping
+2026-04-08 15:57:27,PlayStation Network,24.36,Entertainment
+2026-04-08 18:26:27,Zara Fashion,223.53,Shopping
+2026-04-08 21:09:27,Apple Store,39.8,Shopping
+2026-04-08 21:35:27,ExxonMobil,32.6,Transport
+2026-04-09 06:58:27,Whole Foods Market,94.12,Groceries
+2026-04-09 07:38:27,City Transit Subway,51.83,Transport
+2026-04-09 11:51:27,Netflix.com,21.02,Entertainment
+2026-04-09 14:17:27,Apple Store,34.08,Shopping
+2026-04-09 14:54:27,Dominos Pizza,14.55,Food & Dining
+2026-04-09 22:16:27,McDonald's,14.57,Food & Dining
+2026-04-09 23:36:27,Apple Store,34.27,Shopping
+2026-04-10 00:25:27,AT&T Mobility,114.21,Utilities
+2026-04-10 01:48:27,PlayStation Network,14.3,Entertainment
+2026-04-10 04:14:27,AMC Theatres,8.57,Entertainment
+2026-04-10 05:16:27,Chipotle Mexican Grill,32.25,Food & Dining
+2026-04-10 05:23:27,Safeway Store,97.41,Groceries
+2026-04-10 08:18:27,City Transit Subway,53.92,Transport
+2026-04-10 11:05:27,Dominos Pizza,36.65,Food & Dining
+2026-04-10 12:50:27,PlayStation Network,9.31,Entertainment
+2026-04-10 13:00:27,Hulu Subscription,8.72,Entertainment
+2026-04-10 17:16:27,Hulu Subscription,17.7,Entertainment
+2026-04-10 18:26:27,AT&T Mobility,82.33,Utilities
+2026-04-10 20:11:27,Trader Joe's,106.9,Groceries
+2026-04-11 00:36:27,Chevron Gas,36.68,Transport
+2026-04-11 01:40:27,Kroger Grocery,135.77,Groceries
+2026-04-11 02:48:27,Walmart Supercenter,91.47,Groceries
+2026-04-11 08:32:27,Trader Joe's,170.62,Groceries
+2026-04-11 10:20:27,Zara Fashion,32.26,Shopping
+2026-04-11 18:11:27,Verizon Wireless,119.19,Utilities
+2026-04-11 20:22:27,McDonald's,35.81,Food & Dining
+2026-04-12 04:21:27,AT&T Mobility,178.82,Utilities
+2026-04-12 08:55:27,Chevron Gas,58.13,Transport
+2026-04-12 09:37:27,ExxonMobil,9.66,Transport
+2026-04-12 10:49:27,Starbucks Coffee,38.89,Food & Dining
+2026-04-12 12:44:27,Whole Foods Market,91.65,Groceries
+2026-04-12 12:54:27,Trader Joe's,48.37,Groceries
+2026-04-12 14:50:27,Amazon.com,19.41,Shopping
+2026-04-12 17:07:27,City Transit Subway,14.73,Transport
+2026-04-12 23:29:27,Trader Joe's,45.28,Groceries
+2026-04-13 02:12:27,Local Diner,6.91,Food & Dining
+2026-04-13 04:45:27,Zara Fashion,129.39,Shopping
+2026-04-13 11:27:27,Chevron Gas,32.59,Transport
+2026-04-13 15:54:27,Whole Foods Market,102.94,Groceries
+2026-04-13 16:05:27,Spotify Premium,9.59,Entertainment
+2026-04-13 21:42:27,Whole Foods Market,150.94,Groceries
+2026-04-13 22:24:27,Zara Fashion,149.13,Shopping
+2026-04-13 23:12:27,Lyft Ride,39.4,Transport
+2026-04-14 02:37:27,Whole Foods Market,67.57,Groceries
+2026-04-14 06:21:27,Whole Foods Market,89.25,Groceries
+2026-04-14 11:14:27,AMC Theatres,25.73,Entertainment
+2026-04-14 13:43:27,Chipotle Mexican Grill,36.14,Food & Dining
+2026-04-14 16:06:27,ExxonMobil,27.72,Transport
+2026-04-15 06:53:27,Zara Fashion,202.54,Shopping
+2026-04-15 18:07:27,Starbucks Coffee,7.36,Food & Dining
+2026-04-15 18:54:27,PlayStation Network,27.15,Entertainment
+2026-04-15 20:59:27,Shell Fuel Station,31.91,Transport
+2026-04-15 21:48:27,Steam Games,11.42,Entertainment
+2026-04-15 23:58:27,Target Stores,133.68,Shopping
+2026-04-16 04:14:27,UberEats Delivery,38.95,Food & Dining
+2026-04-16 06:07:27,Netflix.com,19.82,Entertainment
+2026-04-16 13:42:27,Trader Joe's,81.97,Groceries
+2026-04-16 14:13:27,Comcast Cable,45.72,Utilities
+2026-04-16 15:41:27,Safeway Store,129.68,Groceries
+2026-04-16 18:24:27,Hulu Subscription,10.88,Entertainment
+2026-04-16 20:36:27,McDonald's,17.24,Food & Dining
+2026-04-16 23:15:27,Spotify Premium,13.0,Entertainment
+2026-04-17 02:16:27,Walmart Supercenter,72.49,Groceries
+2026-04-17 02:41:27,Verizon Wireless,64.69,Utilities
+2026-04-17 04:54:27,Subway Sandwiches,18.85,Food & Dining
+2026-04-17 05:55:27,Zara Fashion,125.36,Shopping
+2026-04-17 07:11:27,Verizon Wireless,177.54,Utilities
+2026-04-18 05:27:27,Chevron Gas,22.24,Transport
+2026-04-18 05:58:27,City Transit Subway,48.66,Transport
+2026-04-18 15:32:27,Dominos Pizza,18.36,Food & Dining
+2026-04-19 00:09:27,Hulu Subscription,15.25,Entertainment
+2026-04-19 02:29:27,Lyft Ride,29.72,Transport
+2026-04-19 02:51:27,City Transit Subway,46.56,Transport
+2026-04-19 04:42:27,City Water & Sewer,85.52,Utilities
+2026-04-19 13:55:27,Dominos Pizza,34.58,Food & Dining
+2026-04-19 16:01:27,PlayStation Network,8.2,Entertainment
+2026-04-19 16:48:27,Whole Foods Market,159.35,Groceries
+2026-04-20 02:41:27,Whole Foods Market,30.98,Groceries
+2026-04-20 03:41:27,Steam Games,16.56,Entertainment
+2026-04-20 03:52:27,Dominos Pizza,42.18,Food & Dining
+2026-04-20 07:38:27,Steam Games,17.26,Entertainment
+2026-04-20 11:27:27,Verizon Wireless,142.9,Utilities
+2026-04-20 19:55:27,Verizon Wireless,165.24,Utilities
+2026-04-20 21:24:27,Verizon Wireless,163.4,Utilities
+2026-04-20 21:33:27,PG&E Electric,61.16,Utilities
+2026-04-20 22:29:27,Whole Foods Market,139.05,Groceries
+2026-04-21 00:10:27,Chipotle Mexican Grill,17.32,Food & Dining
+2026-04-21 01:24:27,PG&E Electric,165.92,Utilities
+2026-04-21 03:44:27,Spotify Premium,15.03,Entertainment
+2026-04-21 03:45:27,Steam Games,19.08,Entertainment
+2026-04-21 07:52:27,ExxonMobil,11.8,Transport
+2026-04-21 08:17:27,AT&T Mobility,114.4,Utilities
+2026-04-21 08:25:27,Steam Games,24.18,Entertainment
+2026-04-21 10:40:27,Hulu Subscription,25.6,Entertainment
+2026-04-21 15:23:27,Dominos Pizza,24.68,Food & Dining
+2026-04-21 18:25:27,Chipotle Mexican Grill,23.51,Food & Dining
+2026-04-21 19:00:27,Verizon Wireless,150.16,Utilities
+2026-04-21 21:32:27,Amazon.com,136.97,Shopping
+2026-04-21 22:44:27,Chipotle Mexican Grill,22.63,Food & Dining
+2026-04-22 04:04:27,Lyft Ride,20.53,Transport
+2026-04-22 06:33:27,Steam Games,14.88,Entertainment
+2026-04-22 07:42:27,PG&E Electric,112.87,Utilities
+2026-04-22 09:45:27,ExxonMobil,42.24,Transport
+2026-04-22 10:33:27,Lyft Ride,48.53,Transport
+2026-04-22 14:10:27,Best Buy,44.41,Shopping
+2026-04-22 18:27:27,City Water & Sewer,172.56,Utilities
+2026-04-22 19:24:27,Walmart Supercenter,105.29,Groceries
+2026-04-23 00:09:27,Best Buy,101.71,Shopping
+2026-04-23 02:28:27,Steam Games,27.21,Entertainment
+2026-04-23 05:32:27,Steam Games,19.0,Entertainment
+2026-04-23 09:47:27,Spotify Premium,29.98,Entertainment
+2026-04-23 12:42:27,AMC Theatres,16.26,Entertainment
+2026-04-23 17:40:27,Nike Online,120.53,Shopping
+2026-04-23 19:51:27,Steam Games,13.17,Entertainment
+2026-04-23 23:02:27,AT&T Mobility,107.88,Utilities
+2026-04-23 23:33:27,McDonald's,17.05,Food & Dining
+2026-04-24 03:33:27,Dominos Pizza,39.58,Food & Dining
+2026-04-24 04:35:27,Walmart Supercenter,153.67,Groceries
+2026-04-24 07:07:27,Comcast Cable,107.05,Utilities
+2026-04-24 18:25:27,Starbucks Coffee,19.12,Food & Dining
+2026-04-24 22:15:27,Best Buy,32.71,Shopping
+2026-04-24 22:22:27,ExxonMobil,54.9,Transport
+2026-04-24 23:12:27,Chipotle Mexican Grill,36.63,Food & Dining
+2026-04-25 01:20:27,Steam Games,25.0,Entertainment
+2026-04-25 03:02:27,City Transit Subway,54.92,Transport
+2026-04-25 05:51:27,Walmart Supercenter,170.33,Groceries
+2026-04-25 07:24:27,Zara Fashion,188.66,Shopping
+2026-04-25 16:09:27,Verizon Wireless,64.32,Utilities
+2026-04-25 16:38:27,Safeway Store,92.22,Groceries
+2026-04-25 19:10:27,Target Stores,195.27,Shopping
+2026-04-25 19:50:27,Kroger Grocery,147.35,Groceries
+2026-04-25 23:12:27,Trader Joe's,145.46,Groceries
+2026-04-26 02:00:27,Whole Foods Market,55.96,Groceries
+2026-04-26 10:06:27,McDonald's,14.79,Food & Dining
+2026-04-26 12:09:27,City Water & Sewer,165.82,Utilities
+2026-04-26 12:16:27,Nike Online,54.33,Shopping
+2026-04-26 12:49:27,Starbucks Coffee,12.17,Food & Dining
+2026-04-26 14:24:27,Steam Games,26.04,Entertainment
+2026-04-26 15:13:27,Spotify Premium,11.15,Entertainment
+2026-04-26 17:11:27,Best Buy,246.72,Shopping
+2026-04-26 19:12:27,Walmart Supercenter,157.65,Groceries
+2026-04-26 19:26:27,PlayStation Network,25.38,Entertainment
+2026-04-26 21:20:27,Walmart Supercenter,48.68,Groceries
+2026-04-26 23:49:27,Spotify Premium,15.28,Entertainment
+2026-04-27 00:26:27,City Water & Sewer,45.87,Utilities
+2026-04-27 01:57:27,Chipotle Mexican Grill,24.69,Food & Dining
+2026-04-27 03:31:27,PlayStation Network,15.19,Entertainment
+2026-04-27 15:17:27,Trader Joe's,142.21,Groceries
+2026-04-27 18:38:27,Chipotle Mexican Grill,38.5,Food & Dining
+2026-04-27 20:01:27,Safeway Store,85.6,Groceries
+2026-04-27 23:13:27,Verizon Wireless,125.02,Utilities
+2026-04-28 00:56:27,Comcast Cable,83.89,Utilities
+2026-04-28 02:44:27,AT&T Mobility,169.61,Utilities
+2026-04-28 04:43:27,Walmart Supercenter,42.16,Groceries
+2026-04-28 13:28:27,Hulu Subscription,12.82,Entertainment
+2026-04-28 13:29:27,Walmart Supercenter,75.28,Groceries
+2026-04-28 18:33:27,AMC Theatres,23.55,Entertainment
+2026-04-28 18:46:27,Verizon Wireless,159.36,Utilities
+2026-04-29 03:19:27,Netflix.com,14.85,Entertainment
+2026-04-29 13:05:27,McDonald's,42.53,Food & Dining
+2026-04-30 02:18:27,AT&T Mobility,92.22,Utilities
+2026-04-30 02:21:27,Amazon.com,203.74,Shopping
+2026-04-30 03:30:27,Starbucks Coffee,33.75,Food & Dining
+2026-04-30 04:24:27,Verizon Wireless,73.11,Utilities
+2026-04-30 05:43:27,Local Diner,7.85,Food & Dining
+2026-04-30 12:26:27,Comcast Cable,89.46,Utilities
+2026-04-30 13:17:27,City Water & Sewer,159.98,Utilities
+2026-04-30 16:07:27,Trader Joe's,68.65,Groceries
+2026-04-30 16:17:27,McDonald's,42.02,Food & Dining
+2026-04-30 19:59:27,Kroger Grocery,30.49,Groceries
+2026-04-30 21:27:27,Whole Foods Market,137.27,Groceries
+2026-04-30 22:32:27,Best Buy,30.16,Shopping
+2026-05-01 01:13:27,Dominos Pizza,16.8,Food & Dining
+2026-05-01 02:52:27,Lyft Ride,54.49,Transport
+2026-05-01 03:35:27,Subway Sandwiches,18.22,Food & Dining
+2026-05-01 06:21:27,Dominos Pizza,31.7,Food & Dining
+2026-05-01 10:05:27,Uber Trip,23.18,Transport
+2026-05-01 10:12:27,Walmart Supercenter,170.96,Groceries
+2026-05-01 12:11:27,Walmart Supercenter,158.0,Groceries
+2026-05-01 13:47:27,Nike Online,139.33,Shopping
+2026-05-01 13:55:27,Subway Sandwiches,44.49,Food & Dining
+2026-05-02 00:27:27,Steam Games,13.9,Entertainment
+2026-05-02 01:42:27,Subway Sandwiches,23.28,Food & Dining
+2026-05-02 02:23:27,Steam Games,9.4,Entertainment
+2026-05-02 03:06:27,Netflix.com,21.19,Entertainment
+2026-05-02 06:29:27,Amazon.com,216.22,Shopping
+2026-05-02 10:30:27,Safeway Store,42.0,Groceries
+2026-05-02 11:03:27,PG&E Electric,91.19,Utilities
+2026-05-02 16:20:27,Walmart Supercenter,78.51,Groceries
+2026-05-02 18:46:27,Uber Trip,46.14,Transport
+2026-05-02 19:15:27,Trader Joe's,157.2,Groceries
+2026-05-02 21:16:27,Steam Games,26.81,Entertainment
+2026-05-03 00:47:27,Safeway Store,135.59,Groceries
+2026-05-03 03:48:27,Lyft Ride,37.6,Transport
+2026-05-03 03:59:27,PlayStation Network,15.53,Entertainment
+2026-05-03 04:38:27,PG&E Electric,179.02,Utilities
+2026-05-03 08:28:27,Whole Foods Market,113.49,Groceries
+2026-05-03 09:01:27,Target Stores,115.31,Shopping
+2026-05-03 09:23:27,Lyft Ride,56.16,Transport
+2026-05-03 11:43:27,Lyft Ride,37.69,Transport
+2026-05-03 17:26:27,PG&E Electric,101.88,Utilities
+2026-05-03 19:59:27,AT&T Mobility,108.77,Utilities
+2026-05-03 22:08:27,AT&T Mobility,142.84,Utilities
+2026-05-04 02:41:27,PlayStation Network,21.95,Entertainment
+2026-05-04 05:58:27,City Transit Subway,52.22,Transport
+2026-05-04 06:12:27,Kroger Grocery,128.47,Groceries
+2026-05-04 08:06:27,Chevron Gas,33.16,Transport
+2026-05-04 09:23:27,Dominos Pizza,5.52,Food & Dining
+2026-05-04 09:49:27,Comcast Cable,66.08,Utilities
+2026-05-04 11:56:27,Comcast Cable,73.1,Utilities
+2026-05-04 12:14:27,Subway Sandwiches,34.93,Food & Dining
+2026-05-04 17:05:27,PlayStation Network,12.75,Entertainment
+2026-05-04 17:32:27,Comcast Cable,113.54,Utilities
+2026-05-04 20:30:27,Steam Games,22.18,Entertainment
+2026-05-05 01:26:27,PG&E Electric,83.32,Utilities
+2026-05-05 01:50:27,Verizon Wireless,111.81,Utilities
+2026-05-05 05:55:27,Walmart Supercenter,99.48,Groceries
+2026-05-05 07:52:27,Uber Trip,45.65,Transport
+2026-05-05 08:17:27,Verizon Wireless,63.13,Utilities
+2026-05-05 08:17:27,City Transit Subway,14.46,Transport
+2026-05-05 09:47:27,AMC Theatres,10.06,Entertainment
+2026-05-05 12:09:27,Safeway Store,100.71,Groceries
+2026-05-05 22:30:27,Apple Store,44.19,Shopping
+2026-05-05 22:43:27,Kroger Grocery,44.34,Groceries
+2026-05-06 05:54:27,Amazon.com,177.57,Shopping
+2026-05-06 06:00:27,Kroger Grocery,55.62,Groceries
+2026-05-06 07:34:27,Chipotle Mexican Grill,21.09,Food & Dining
+2026-05-06 08:32:27,Best Buy,164.21,Shopping
+2026-05-06 11:23:27,Trader Joe's,119.63,Groceries
+2026-05-06 14:31:27,Kroger Grocery,108.95,Groceries
+2026-05-06 14:58:27,Nike Online,235.37,Shopping
+2026-05-06 22:57:27,ExxonMobil,19.68,Transport
+2026-05-07 01:18:27,Dominos Pizza,24.99,Food & Dining
+2026-05-07 01:23:27,Local Diner,17.13,Food & Dining
+2026-05-07 01:55:27,Zara Fashion,216.43,Shopping
+2026-05-07 03:07:27,Nike Online,171.79,Shopping
+2026-05-07 04:43:27,Dominos Pizza,11.02,Food & Dining
+2026-05-07 08:11:27,Comcast Cable,112.78,Utilities
+2026-05-07 11:46:27,Kroger Grocery,25.29,Groceries
+2026-05-07 13:34:27,PG&E Electric,170.97,Utilities
+2026-05-07 17:07:27,Nike Online,121.04,Shopping
+2026-05-07 18:15:27,Uber Trip,42.29,Transport
+2026-05-08 00:32:27,AT&T Mobility,137.81,Utilities
+2026-05-08 03:50:27,Safeway Store,55.19,Groceries
+2026-05-08 04:59:27,Safeway Store,174.47,Groceries
+2026-05-08 05:50:27,AT&T Mobility,179.47,Utilities
+2026-05-08 08:04:27,PlayStation Network,10.81,Entertainment
+2026-05-08 11:41:27,Verizon Wireless,160.86,Utilities
+2026-05-08 13:35:27,PlayStation Network,24.34,Entertainment
+2026-05-08 20:12:27,Local Diner,10.57,Food & Dining
+2026-05-09 00:54:27,AMC Theatres,8.08,Entertainment
+2026-05-09 01:25:27,Hulu Subscription,20.14,Entertainment
+2026-05-09 06:56:27,City Water & Sewer,52.25,Utilities
+2026-05-09 15:21:27,Chipotle Mexican Grill,30.31,Food & Dining
+2026-05-09 15:39:27,Hulu Subscription,12.97,Entertainment
+2026-05-09 21:07:27,City Transit Subway,28.05,Transport
+2026-05-09 23:58:27,ExxonMobil,40.57,Transport
+2026-05-10 05:47:27,Uber Trip,59.1,Transport
+2026-05-10 06:21:27,Apple Store,144.91,Shopping
+2026-05-10 07:32:27,Verizon Wireless,118.44,Utilities
+2026-05-10 07:55:27,Spotify Premium,16.7,Entertainment
+2026-05-10 10:57:27,Kroger Grocery,85.38,Groceries
+2026-05-10 12:12:27,Shell Fuel Station,54.16,Transport
+2026-05-10 12:50:27,UberEats Delivery,28.97,Food & Dining
+2026-05-10 17:28:27,Zara Fashion,42.71,Shopping
+2026-05-10 20:07:27,Chevron Gas,30.87,Transport
+2026-05-10 21:33:27,City Water & Sewer,66.64,Utilities
+2026-05-10 22:15:27,PG&E Electric,177.18,Utilities
+2026-05-11 02:48:27,PG&E Electric,45.13,Utilities
+2026-05-11 09:56:27,Uber Trip,38.14,Transport
+2026-05-11 12:53:27,Target Stores,104.42,Shopping
+2026-05-11 17:07:27,Kroger Grocery,36.02,Groceries
+2026-05-11 18:00:27,AMC Theatres,26.68,Entertainment
+2026-05-11 18:34:27,UberEats Delivery,23.58,Food & Dining
+2026-05-12 00:38:27,Comcast Cable,176.74,Utilities
+2026-05-12 01:42:27,UberEats Delivery,8.1,Food & Dining
+2026-05-12 04:05:27,AT&T Mobility,75.39,Utilities
+2026-05-12 08:11:27,Best Buy,133.95,Shopping
+2026-05-12 09:30:27,Nike Online,208.22,Shopping
+2026-05-12 10:14:27,ExxonMobil,59.27,Transport
+2026-05-12 16:08:27,McDonald's,29.64,Food & Dining
+2026-05-12 17:53:27,AT&T Mobility,59.34,Utilities
+2026-05-12 20:57:27,PG&E Electric,57.33,Utilities
+2026-05-13 01:41:27,Walmart Supercenter,26.24,Groceries
+2026-05-13 03:27:27,Whole Foods Market,24.57,Groceries
+2026-05-13 13:25:27,Uber Trip,20.92,Transport
+2026-05-13 14:36:27,Target Stores,223.85,Shopping
+2026-05-13 17:21:27,Comcast Cable,71.68,Utilities
+2026-05-13 20:51:27,Walmart Supercenter,60.47,Groceries
+2026-05-13 22:21:27,PG&E Electric,69.34,Utilities
+2026-05-14 04:52:27,Uber Trip,13.16,Transport
+2026-05-14 05:23:27,Zara Fashion,39.54,Shopping
+2026-05-14 05:28:27,Shell Fuel Station,41.29,Transport
+2026-05-14 07:03:27,Subway Sandwiches,13.04,Food & Dining
+2026-05-14 07:22:27,Local Diner,29.5,Food & Dining
+2026-05-14 09:16:27,Spotify Premium,18.53,Entertainment
+2026-05-14 14:32:27,Safeway Store,106.17,Groceries
+2026-05-14 18:26:27,Trader Joe's,59.38,Groceries
+2026-05-14 19:05:27,Uber Trip,19.16,Transport
+2026-05-14 19:36:27,Steam Games,18.35,Entertainment
+2026-05-15 06:33:27,Nike Online,229.48,Shopping
+2026-05-15 11:33:27,PG&E Electric,65.75,Utilities
+2026-05-15 11:59:27,AMC Theatres,21.97,Entertainment
+2026-05-15 17:06:27,City Transit Subway,23.2,Transport
+2026-05-15 19:42:27,Local Diner,36.64,Food & Dining
+2026-05-15 19:52:27,UberEats Delivery,32.8,Food & Dining
+2026-05-15 21:24:27,Shell Fuel Station,53.97,Transport
+2026-05-15 23:25:27,Local Diner,39.67,Food & Dining
+2026-05-16 00:23:27,Netflix.com,28.89,Entertainment
+2026-05-16 09:00:27,Zara Fashion,117.11,Shopping
+2026-05-16 15:36:27,City Water & Sewer,171.62,Utilities
+2026-05-16 19:46:27,Verizon Wireless,123.51,Utilities
+2026-05-17 01:45:27,Hulu Subscription,23.87,Entertainment
+2026-05-17 04:43:27,Dominos Pizza,23.86,Food & Dining
+2026-05-17 04:44:27,Lyft Ride,9.97,Transport
+2026-05-17 06:58:27,PG&E Electric,136.2,Utilities
+2026-05-17 13:02:27,Verizon Wireless,158.33,Utilities
+2026-05-17 14:44:27,ExxonMobil,59.29,Transport
+2026-05-17 18:53:27,City Transit Subway,22.61,Transport
+2026-05-17 21:09:27,Netflix.com,14.29,Entertainment
+2026-05-17 21:23:27,Best Buy,171.36,Shopping
+2026-05-18 01:23:27,Comcast Cable,117.33,Utilities
+2026-05-18 07:23:27,Chipotle Mexican Grill,13.81,Food & Dining
+2026-05-18 14:30:27,Verizon Wireless,60.38,Utilities
+2026-05-19 00:58:27,McDonald's,22.22,Food & Dining
+2026-05-19 03:28:27,Local Diner,12.07,Food & Dining
+2026-05-19 05:17:27,Netflix.com,10.47,Entertainment
+2026-05-19 08:06:27,Shell Fuel Station,58.66,Transport
+2026-05-19 09:57:27,Whole Foods Market,54.13,Groceries
+2026-05-19 14:38:27,ExxonMobil,14.29,Transport
+2026-05-19 14:43:27,Netflix.com,14.41,Entertainment
+2026-05-19 15:34:27,Whole Foods Market,151.41,Groceries
+2026-05-19 18:59:27,Verizon Wireless,159.29,Utilities
+2026-05-20 00:30:27,PG&E Electric,134.25,Utilities
+2026-05-20 01:37:27,Zara Fashion,107.71,Shopping
+2026-05-20 01:48:27,Hulu Subscription,21.52,Entertainment
+2026-05-20 06:47:27,Shell Fuel Station,42.15,Transport
+2026-05-20 07:09:27,PG&E Electric,109.31,Utilities
+2026-05-20 09:22:27,Whole Foods Market,51.56,Groceries
+2026-05-20 12:22:27,Apple Store,121.2,Shopping
+2026-05-20 13:02:27,McDonald's,20.4,Food & Dining
+2026-05-20 13:14:27,Kroger Grocery,56.84,Groceries
+2026-05-20 14:56:27,PG&E Electric,71.16,Utilities
+2026-05-20 23:06:27,Starbucks Coffee,14.78,Food & Dining
+2026-05-21 01:48:27,ExxonMobil,27.6,Transport
+2026-05-21 02:25:27,Nike Online,79.94,Shopping
+2026-05-21 04:51:27,Safeway Store,142.24,Groceries
+2026-05-21 07:36:27,Best Buy,197.43,Shopping
+2026-05-21 09:12:27,McDonald's,9.87,Food & Dining
+2026-05-21 11:32:27,Kroger Grocery,38.8,Groceries
+2026-05-21 20:21:27,Best Buy,226.92,Shopping
+2026-05-21 23:09:27,Walmart Supercenter,27.19,Groceries
+2026-05-22 01:25:27,Safeway Store,104.98,Groceries
+2026-05-22 04:15:27,Nike Online,16.22,Shopping
+2026-05-22 11:23:27,Apple Store,126.35,Shopping
+2026-05-22 12:55:27,AMC Theatres,24.0,Entertainment
+2026-05-22 18:20:27,Apple Store,40.44,Shopping
+2026-05-22 20:59:27,Safeway Store,55.2,Groceries
+2026-05-23 01:11:27,Chevron Gas,8.04,Transport
+2026-05-23 03:05:27,Lyft Ride,17.82,Transport
+2026-05-23 04:19:27,PG&E Electric,157.41,Utilities
+2026-05-23 10:27:27,Safeway Store,47.81,Groceries
+2026-05-23 13:41:27,UberEats Delivery,36.81,Food & Dining
+2026-05-23 18:08:27,Safeway Store,171.42,Groceries
+2026-05-23 18:51:27,Spotify Premium,19.93,Entertainment
+2026-05-23 21:51:27,McDonald's,15.49,Food & Dining
+2026-05-24 00:25:27,Chevron Gas,15.88,Transport
+2026-05-24 00:30:27,Chipotle Mexican Grill,44.48,Food & Dining
+2026-05-24 04:36:27,Hulu Subscription,15.65,Entertainment
+2026-05-24 11:39:27,Safeway Store,104.58,Groceries
+2026-05-24 11:49:27,McDonald's,35.82,Food & Dining
+2026-05-24 13:10:27,Shell Fuel Station,9.65,Transport
+2026-05-24 21:31:27,Whole Foods Market,44.56,Groceries
+2026-05-24 22:57:27,Whole Foods Market,166.46,Groceries
+2026-05-25 01:39:27,Local Diner,37.67,Food & Dining
+2026-05-25 02:00:27,Kroger Grocery,139.98,Groceries
+2026-05-25 07:35:27,Trader Joe's,167.96,Groceries
+2026-05-25 08:34:27,City Water & Sewer,168.57,Utilities
+2026-05-25 08:42:27,Steam Games,26.77,Entertainment
+2026-05-25 09:10:27,Spotify Premium,19.04,Entertainment
+2026-05-25 10:33:27,Netflix.com,16.79,Entertainment
+2026-05-25 12:59:27,Walmart Supercenter,16.37,Groceries
+2026-05-25 14:17:27,Subway Sandwiches,17.38,Food & Dining
+2026-05-25 18:35:27,Whole Foods Market,139.36,Groceries
+2026-05-25 23:08:27,Apple Store,11.35,Shopping
+2026-05-26 08:22:27,Chevron Gas,29.54,Transport
+2026-05-26 08:23:27,Chevron Gas,24.47,Transport
+2026-05-26 10:24:27,AT&T Mobility,154.17,Utilities
+2026-05-26 10:39:27,ExxonMobil,50.27,Transport
+2026-05-26 14:12:27,Trader Joe's,93.28,Groceries
+2026-05-26 20:28:27,ExxonMobil,22.15,Transport
+2026-05-26 22:18:27,Amazon.com,132.2,Shopping
+2026-05-27 00:58:27,Nike Online,129.31,Shopping
+2026-05-27 07:33:27,Hulu Subscription,16.73,Entertainment
+2026-05-27 17:49:27,Local Diner,25.18,Food & Dining
+2026-05-27 18:21:27,Uber Trip,23.11,Transport
+2026-05-27 20:46:27,Kroger Grocery,85.73,Groceries
+2026-05-27 21:05:27,Amazon.com,10.27,Shopping
+2026-05-28 01:47:27,AMC Theatres,15.92,Entertainment
+2026-05-28 07:17:27,Safeway Store,152.91,Groceries
+2026-05-28 13:44:27,Apple Store,150.39,Shopping
+2026-05-28 14:08:27,Hulu Subscription,22.53,Entertainment
+2026-05-28 17:59:27,Chevron Gas,56.8,Transport
+2026-05-28 19:59:27,Chevron Gas,55.82,Transport
+2026-05-28 20:27:27,PG&E Electric,148.71,Utilities
+2026-05-29 05:32:27,Target Stores,214.97,Shopping
+2026-05-29 09:50:27,Comcast Cable,74.07,Utilities
+2026-05-29 10:03:27,Kroger Grocery,46.65,Groceries
+2026-05-29 14:26:27,Lyft Ride,32.14,Transport
+2026-05-29 18:34:27,Verizon Wireless,173.88,Utilities
+2026-05-29 21:05:27,McDonald's,29.12,Food & Dining
+2026-05-30 01:06:27,UberEats Delivery,35.85,Food & Dining
+2026-05-30 02:08:27,Target Stores,55.41,Shopping
+2026-05-30 04:47:27,ExxonMobil,57.26,Transport
+2026-05-30 04:54:27,Chevron Gas,45.74,Transport
+2026-05-30 20:00:27,Chevron Gas,24.36,Transport
+2026-05-30 20:17:27,Netflix.com,24.6,Entertainment
+2026-05-30 23:44:27,Netflix.com,12.88,Entertainment
+2026-05-31 04:48:27,Uber Trip,49.06,Transport
+2026-05-31 15:35:27,Spotify Premium,21.95,Entertainment
+2026-05-31 16:24:27,Nike Online,125.62,Shopping
+2026-05-31 19:25:27,City Transit Subway,53.4,Transport
+2026-05-31 21:58:27,Target Stores,171.59,Shopping
+2026-05-31 22:55:27,AMC Theatres,8.02,Entertainment
+2026-06-01 02:58:27,Verizon Wireless,128.26,Utilities
+2026-06-01 08:50:27,Subway Sandwiches,10.4,Food & Dining
+2026-06-01 08:58:27,City Transit Subway,58.0,Transport
+2026-06-01 09:25:27,McDonald's,5.48,Food & Dining
+2026-06-01 13:05:27,Chevron Gas,16.34,Transport
+2026-06-01 13:49:27,PG&E Electric,72.15,Utilities
+2026-06-01 21:08:27,Steam Games,28.82,Entertainment
+2026-06-01 22:17:27,Safeway Store,169.74,Groceries

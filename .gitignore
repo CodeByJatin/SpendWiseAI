@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases and Vector Stores
+backend/chromadb/
+
+# Trained model binaries (users will generate these by running the training scripts)
+backend/models/*.joblib
+
+# Frontend dependency packages
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Logs
+*.log
+logs/

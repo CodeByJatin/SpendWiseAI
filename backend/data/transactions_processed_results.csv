@@ -1,0 +1,51 @@
+date,description,amount,category,predicted_category,is_anomaly,anomaly_score
+2026-05-02 08:49:27,Nike Online,36.62,Shopping,Shopping,False,0.22355374533276356
+2026-05-03 02:27:27,Best Buy,182.23,Shopping,Shopping,False,0.0942995551146476
+2026-05-03 22:33:27,Target Stores,137.62,Shopping,Shopping,False,0.18921163177832268
+2026-05-03 23:05:27,City Water & Sewer,125.06,Utilities,Utilities,False,0.15892416608313453
+2026-05-05 08:42:27,Safeway Store,109.96,Groceries,Groceries,False,0.1633470537471895
+2026-05-06 10:17:27,Verizon Wireless,148.29,Utilities,Utilities,False,0.1626825075804459
+2026-05-06 13:07:27,Comcast Cable,97.38,Utilities,Utilities,False,0.17710766583436455
+2026-05-07 02:43:27,Whole Foods Market,40.25,Groceries,Groceries,False,0.22244045759931874
+2026-05-07 13:08:27,Local Diner,5.32,Food & Dining,Food & Dining,False,0.037492511124064154
+2026-05-08 15:31:27,Best Buy,125.5,Shopping,Shopping,False,0.15911212839669497
+2026-05-08 23:46:27,Nike Online,212.59,Shopping,Shopping,False,0.01921398642697658
+2026-05-09 21:16:27,Comcast Cable,120.0,Utilities,Utilities,False,0.16882585822795027
+2026-05-09 21:21:27,Comcast Cable,120.0,Utilities,Utilities,False,0.16882585822795027
+2026-05-10 00:10:27,Uber Trip,14.98,Transport,Transport,False,0.23303554955410033
+2026-05-10 15:02:27,Apple Store,223.05,Shopping,Shopping,False,0.00243317837798096
+2026-05-11 11:13:27,Chevron Gas,50.48,Transport,Transport,False,0.1939596801982464
+2026-05-12 01:37:27,City Water & Sewer,50.41,Utilities,Utilities,False,0.192269191091893
+2026-05-12 14:08:27,Nike Online,11.03,Shopping,Shopping,False,0.2172471300817267
+2026-05-12 16:37:27,Whole Foods Market,100.35,Groceries,Groceries,False,0.1742561520780591
+2026-05-13 10:09:27,Safeway Store,67.29,Groceries,Groceries,False,0.1675424447933388
+2026-05-13 23:21:27,Amazon.com,2899.99,Shopping,Shopping,True,-0.06526994200442837
+2026-05-15 23:56:27,PlayStation Network,25.73,Entertainment,Entertainment,False,0.24210792125932057
+2026-05-16 22:19:27,Best Buy,16.37,Shopping,Shopping,False,0.23986699690120894
+2026-05-17 11:52:27,Spotify Premium,17.99,Entertainment,Entertainment,False,0.23280902358568456
+2026-05-17 23:19:27,City Water & Sewer,119.31,Utilities,Utilities,False,0.1602619846972645
+2026-05-19 00:17:27,Safeway Store,164.22,Groceries,Groceries,False,0.17397020095659588
+2026-05-19 13:53:27,Netflix.com,29.95,Entertainment,Entertainment,False,0.2379669282791732
+2026-05-19 23:21:27,Adobe Creative Cloud,54.99,Entertainment,Food & Dining,False,0.2129548949516501
+2026-05-20 05:41:27,Zara Fashion,203.44,Shopping,Shopping,False,0.035525791250063166
+2026-05-20 08:22:27,Uber Trip,8.1,Transport,Transport,False,0.14908608076819096
+2026-05-20 17:54:27,Apple Store,72.05,Shopping,Shopping,False,0.17608876249671324
+2026-05-21 08:24:27,Target Stores,178.34,Shopping,Shopping,False,0.1338876765013609
+2026-05-25 04:29:27,Amazon.com,37.32,Shopping,Shopping,False,0.2284321846584904
+2026-05-25 10:56:27,Chipotle Mexican Grill,10.84,Food & Dining,Food & Dining,False,0.21359738942524537
+2026-05-26 06:54:27,Target Stores,221.93,Shopping,Shopping,False,0.003214202722545245
+2026-05-26 15:45:27,City Water & Sewer,67.04,Utilities,Utilities,False,0.1674538672075272
+2026-05-26 23:21:27,Starbucks Coffee,450.0,Food & Dining,Food & Dining,True,-0.06526994200442837
+2026-05-27 01:26:27,Comcast Cable,178.18,Utilities,Utilities,False,0.13521300844075834
+2026-05-27 03:27:27,Trader Joe's,152.21,Groceries,Groceries,False,0.16919882521497664
+2026-05-27 18:16:27,City Water & Sewer,129.56,Utilities,Utilities,False,0.18140548745315288
+2026-05-28 01:41:27,Hulu Subscription,13.01,Entertainment,Entertainment,False,0.22383085773768496
+2026-05-28 04:56:27,Steam Games,15.47,Entertainment,Entertainment,False,0.23565828354260387
+2026-05-29 13:46:27,UberEats Delivery,32.44,Food & Dining,Food & Dining,False,0.21718877485445343
+2026-05-29 22:00:27,UberEats Delivery,25.27,Food & Dining,Food & Dining,False,0.24106306938251193
+2026-05-30 05:32:27,Verizon Wireless,92.33,Utilities,Utilities,False,0.18099329681378418
+2026-05-30 18:44:27,Chevron Gas,12.63,Transport,Transport,False,0.22607277026832356
+2026-05-30 22:31:27,Target Stores,179.55,Shopping,Shopping,False,0.11367301607206359
+2026-05-31 10:37:27,Uber Trip,38.01,Transport,Transport,False,0.22194778855712793
+2026-06-01 15:00:27,Kroger Grocery,74.28,Groceries,Groceries,False,0.19334196742210952
+2026-06-01 22:27:27,Verizon Wireless,161.67,Utilities,Utilities,False,0.15872195084829432

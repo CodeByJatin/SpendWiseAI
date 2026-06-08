@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pandas
+scikit-learn
+joblib
+requests
+chromadb
+python-multipart
+sentence-transformers
