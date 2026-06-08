@@ -12,6 +12,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Ollama-Gemma_2B-black?style=for-the-badge" alt="Ollama"/></a>
 </p>
 
+<p align="center">
+  <img src="preview.png" alt="SpendWise AI Dashboard Preview" width="100%"/>
+</p>
+
 ---
 
 SpendWise AI is a hybrid AI-powered financial dashboard designed to analyze bank statements completely offline. It integrates traditional Machine Learning (Supervised text classification + Unsupervised anomaly detection), Retrieval-Augmented Generation (RAG), and a local LLM agent to classify transactions, flag suspicious charges, and draft formal dispute letters grounded in cardholder policy agreements.
