@@ -171,3 +171,6 @@ Integrating a structured **Thought ➔ Action ➔ Observation** reasoning loop, 
 
 ### 3. SQLite DB & Memory Persistence
 *   Integrating a local SQLite database using SQLAlchemy to persist uploaded statements, categorizations, and complete historical chat logs so data is not lost on server restarts.
+
+### 4. RBI Account Aggregator (AA) Framework Integration
+*   Transitioning from manual CSV/PDF statement uploads to an automated transaction sync pipeline by integrating with RBI-licensed Account Aggregator consent portals (e.g., Setu, Finvu). This enables secure, encrypted, and bank-verified account updates under explicit user authorization.
